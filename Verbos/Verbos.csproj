@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Evolve" Version="2.4.0" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="4.2.0" />
     <PackageReference Include="Microsoft.entityFrameworkCore.Tools" Version="3.1.8">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
@@ -12,6 +13,9 @@
     </PackageReference>
     <PackageReference Include="Pomelo.entityFrameworkCore.Mysql" Version="3.2.4" />
     <PackageReference Include="Pomelo.entityFrameworkCore.Mysql.Design" Version="1.1.2" />
+    <PackageReference Include="Serilog" Version="2.10.0" />
+    <PackageReference Include="Serilog.AspNetCore" Version="3.4.0" />
+    <PackageReference Include="Serilog.Sinks.Console" Version="3.1.1" />
   </ItemGroup>
 
 
