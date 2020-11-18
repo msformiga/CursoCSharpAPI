@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mauricio/Projetos/EntityFramework/CursoAPI/Verbos/Verbos.csproj": {}
+    "/home/mauricio/Projetos/CSharp/CursoCSharpAPI/Verbos/Verbos.csproj": {}
   },
   "projects": {
-    "/home/mauricio/Projetos/EntityFramework/CursoAPI/Verbos/Verbos.csproj": {
+    "/home/mauricio/Projetos/CSharp/CursoCSharpAPI/Verbos/Verbos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mauricio/Projetos/EntityFramework/CursoAPI/Verbos/Verbos.csproj",
+        "projectUniqueName": "/home/mauricio/Projetos/CSharp/CursoCSharpAPI/Verbos/Verbos.csproj",
         "projectName": "Verbos",
-        "projectPath": "/home/mauricio/Projetos/EntityFramework/CursoAPI/Verbos/Verbos.csproj",
+        "projectPath": "/home/mauricio/Projetos/CSharp/CursoCSharpAPI/Verbos/Verbos.csproj",
         "packagesPath": "/home/mauricio/.nuget/packages/",
-        "outputPath": "/home/mauricio/Projetos/EntityFramework/CursoAPI/Verbos/obj/",
+        "outputPath": "/home/mauricio/Projetos/CSharp/CursoCSharpAPI/Verbos/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mauricio/.nuget/NuGet/NuGet.Config"
@@ -36,6 +36,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Evolve": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
             "Microsoft.AspNetCore.Mvc.Versioning": {
               "target": "Package",
               "version": "[4.2.0, )"
@@ -53,6 +57,18 @@
             "Pomelo.entityFrameworkCore.Mysql.Design": {
               "target": "Package",
               "version": "[1.1.2, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[3.1.1, )"
             }
           },
           "imports": [
