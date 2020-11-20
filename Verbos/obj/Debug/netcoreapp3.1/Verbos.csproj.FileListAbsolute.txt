@@ -108,3 +108,15 @@
 /home/mauricio/Projetos/CSharp/CursoCSharpAPI/Verbos/bin/Debug/netcoreapp3.1/Serilog.Sinks.Console.dll
 /home/mauricio/Projetos/CSharp/CursoCSharpAPI/Verbos/bin/Debug/netcoreapp3.1/Serilog.Sinks.Debug.dll
 /home/mauricio/Projetos/CSharp/CursoCSharpAPI/Verbos/bin/Debug/netcoreapp3.1/Serilog.Sinks.File.dll
+/home/mauricio/Projetos/EntityFramework/CursoAPI/Verbos/bin/Debug/netcoreapp3.1/Evolve.dll
+/home/mauricio/Projetos/EntityFramework/CursoAPI/Verbos/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/home/mauricio/Projetos/EntityFramework/CursoAPI/Verbos/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/home/mauricio/Projetos/EntityFramework/CursoAPI/Verbos/bin/Debug/netcoreapp3.1/Serilog.dll
+/home/mauricio/Projetos/EntityFramework/CursoAPI/Verbos/bin/Debug/netcoreapp3.1/Serilog.AspNetCore.dll
+/home/mauricio/Projetos/EntityFramework/CursoAPI/Verbos/bin/Debug/netcoreapp3.1/Serilog.Extensions.Hosting.dll
+/home/mauricio/Projetos/EntityFramework/CursoAPI/Verbos/bin/Debug/netcoreapp3.1/Serilog.Extensions.Logging.dll
+/home/mauricio/Projetos/EntityFramework/CursoAPI/Verbos/bin/Debug/netcoreapp3.1/Serilog.Formatting.Compact.dll
+/home/mauricio/Projetos/EntityFramework/CursoAPI/Verbos/bin/Debug/netcoreapp3.1/Serilog.Settings.Configuration.dll
+/home/mauricio/Projetos/EntityFramework/CursoAPI/Verbos/bin/Debug/netcoreapp3.1/Serilog.Sinks.Console.dll
+/home/mauricio/Projetos/EntityFramework/CursoAPI/Verbos/bin/Debug/netcoreapp3.1/Serilog.Sinks.Debug.dll
+/home/mauricio/Projetos/EntityFramework/CursoAPI/Verbos/bin/Debug/netcoreapp3.1/Serilog.Sinks.File.dll

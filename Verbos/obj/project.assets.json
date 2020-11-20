@@ -6040,11 +6040,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mauricio/Projetos/CSharp/CursoCSharpAPI/Verbos/Verbos.csproj",
+      "projectUniqueName": "/home/mauricio/Projetos/EntityFramework/CursoAPI/Verbos/Verbos.csproj",
       "projectName": "Verbos",
-      "projectPath": "/home/mauricio/Projetos/CSharp/CursoCSharpAPI/Verbos/Verbos.csproj",
+      "projectPath": "/home/mauricio/Projetos/EntityFramework/CursoAPI/Verbos/Verbos.csproj",
       "packagesPath": "/home/mauricio/.nuget/packages/",
-      "outputPath": "/home/mauricio/Projetos/CSharp/CursoCSharpAPI/Verbos/obj/",
+      "outputPath": "/home/mauricio/Projetos/EntityFramework/CursoAPI/Verbos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mauricio/.nuget/NuGet/NuGet.Config"

@@ -9,5 +9,6 @@ namespace Verbos.Models.Context
         public Contexto(){}
         public Contexto(DbContextOptions<Contexto> options ): base(options){}
         public DbSet<Person> Persons {get;set;}
+        public DbSet<Book> Books {get;set;}
     }
 }

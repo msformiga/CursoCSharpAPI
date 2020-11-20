@@ -58,6 +58,10 @@ namespace Verbos
             //Injeção de dependencia
             services.AddScoped<IPersonBusiness, PersonBusinessImplementation>();
             services.AddScoped<IPersonRepository, PersonRepositoryImplementation>();
+
+            services.AddScoped<IBookBusiness, BookBusinessImplementation>();
+            //services.AddScoped<IBookRepository, BookRepositoryImplementation>();
+            services.AddScoped<IBookRepository, BookRepositoryImplementation>();
             
             if(Environment.IsDevelopment()){
                 MigrateDatabase(connection);

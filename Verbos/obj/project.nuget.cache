@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YSinZxGlV8jAQPd8IbOIYxjA/TJNW7x1fcOj246uXmCT0njBH635I26B5o0qoImOo4hjyHbphQIqOywfXyFWqA==",
+  "dgSpecHash": "xO8toChnJpTpSwS5NLuPpNhhRaPZ6siP7pDSazrspNw0J1DN48FTkXX9ad4xIMwkmTBHeJeqL7anqo1Ovrv8dA==",
   "success": true,
-  "projectFilePath": "/home/mauricio/Projetos/CSharp/CursoCSharpAPI/Verbos/Verbos.csproj",
+  "projectFilePath": "/home/mauricio/Projetos/EntityFramework/CursoAPI/Verbos/Verbos.csproj",
   "expectedPackageFiles": [
     "/home/mauricio/.nuget/packages/evolve/2.4.0/evolve.2.4.0.nupkg.sha512",
     "/home/mauricio/.nuget/packages/microsoft.aspnetcore.mvc.versioning/4.2.0/microsoft.aspnetcore.mvc.versioning.4.2.0.nupkg.sha512",
